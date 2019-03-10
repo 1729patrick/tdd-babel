@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1552250619479" clover="3.2.0">
+  <project timestamp="1552250619479" name="All files">
+    <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3" elements="10" coveredelements="10" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
+    <file name="map.js" path="/Users/patrickbattisti/Sistemas/tdd/src/map/map.js">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <line num="1" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="7" type="stmt"/>
+      <line num="4" count="7" type="stmt"/>
+      <line num="5" count="12" type="stmt"/>
+      <line num="8" count="7" type="stmt"/>
+    </file>
+  </project>
+</coverage>
